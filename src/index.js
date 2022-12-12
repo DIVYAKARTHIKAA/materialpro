@@ -9,12 +9,12 @@ import reportWebVitals from './reportWebVitals';
 //import {Max1,Max2} from './fragment';
 //import Counter from './App';
 //import Lifecycle from './Lifecycle';
-//import App from './App';
-import RegisterForm from './pages/form';
+import App from './App';
+//import RegisterForm from './pages/form';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <RegisterForm />
+    <App />
   </React.StrictMode>
 );
 

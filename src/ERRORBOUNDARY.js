@@ -1,4 +1,4 @@
-import { render } from "@testing-library/react";
+/*import { render } from "@testing-library/react";
 import React from "react";
 
 export class ErrorBoundary extends React.Component{
@@ -28,4 +28,4 @@ render(){
     return this.props.children;
 }
 }
-export default ErrorBoundary;
+export default ErrorBoundary;*/

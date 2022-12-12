@@ -1,4 +1,4 @@
-import * as React from 'react'
+/*import * as React from 'react'
 //import ReactDOM from 'react-dom'
 
 
@@ -39,4 +39,4 @@ function Country(name) {
   
 }
 
-export default Error;
+export default Error;*/
